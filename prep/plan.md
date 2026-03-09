@@ -8,9 +8,17 @@
 ## Timeline
 
 #### MVP
-
-- [ ] Task (deadline: 4/5)
-  - [ ] Subtask (deadline: X)
+-[] Essental 
+- [ ] Freedom Project MVP (Deadline: 4/5)
+  - [ ] Map/level design (Deadline: 3/15)
+    - [ ] Design walking platform(Deadline: 3/12)
+    - [ ] Background(Deadline : 3/14)
+  - [ ] Player sprite (Deadline: 3/20) 
+  - [ ] Enemy Sprite (Deadline: 3/21)
+  - [ ] Player movement/moveset (Deadline: 3/22)
+    - [ ] WASD and space keys (Deadline: 3/21)
+    - [ ] Mouse for attack(Deadline 3/22)
+  - [ ] Enemy movement (Deadline 3/23)
 
 #### Beyond MVP
 
