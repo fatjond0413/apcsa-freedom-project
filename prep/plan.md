@@ -8,22 +8,35 @@
 ## Timeline
 
 #### MVP
--[] Essental 
 - [ ] Freedom Project MVP (Deadline: 4/5)
   - [ ] Map/level design (Deadline: 3/15)
     - [ ] Design walking platform(Deadline: 3/12)
     - [ ] Background(Deadline : 3/14)
   - [ ] Player sprite (Deadline: 3/20) 
-  - [ ] Enemy Sprite (Deadline: 3/21)
+  - [ ] Enemy Sprites (Deadline: 3/21)
+      - [ ] Design (Deadline: 3/17)
+      - [ ] Size (Deadline: 3/19)
   - [ ] Player movement/moveset (Deadline: 3/22)
     - [ ] WASD and space keys (Deadline: 3/21)
     - [ ] Mouse for attack(Deadline 3/22)
   - [ ] Enemy movement (Deadline 3/23)
+    - [ ] Enemy moving left and right(Deadline: 3/21)
+    - [ ] Enemy jumping (Deadline: 3/22)     
+  - [ ] Enemy health amounts(Deadline: 3/25)
+  - [ ] Enemy hit boxes(Deadline: 3/27)
+  - [ ] Player hit box(Deadline: 3/28)
+  - [ ] 
+ 
 
 #### Beyond MVP
 
-- [ ] Task
-  - [ ] Subtask
+- [ ] Add visable player healthbar(4/18)
+- [ ] Add visable enemy healthbar(4/19)
+- [ ] Add protagonist running animations(4/30)(Optinal)
+- [ ] Add numbers to health bars(4/26)
+- [ ] Add Sword(Deadline: 5/1)
+  - [ ] Sword sprite(Deadline: 4/29) 
+    - [ ] Sword animation(Deadline: 5/1)  
 
 
 <!-- EXAMPLE
