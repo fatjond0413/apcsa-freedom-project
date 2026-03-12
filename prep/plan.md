@@ -25,18 +25,23 @@
   - [ ] Enemy health amounts(Deadline: 3/25)
   - [ ] Enemy hit boxes(Deadline: 3/27)
   - [ ] Player hit box(Deadline: 3/28)
-  - [ ] 
  
 
 #### Beyond MVP
 
 - [ ] Add visable player healthbar(4/18)
-- [ ] Add visable enemy healthbar(4/19)
-- [ ] Add protagonist running animations(4/30)(Optinal)
-- [ ] Add numbers to health bars(4/26)
+- [ ] Add visable enemy healthbar(Deadline: 4/19)
+- [ ] Add protagonist running animations(Deadline: 4/30)
+- [ ] Add player jumping animation(Deadline: 5/3)
+- [ ] Add numbers to health bars(Deadline: 4/26)
 - [ ] Add Sword(Deadline: 5/1)
   - [ ] Sword sprite(Deadline: 4/29) 
-    - [ ] Sword animation(Deadline: 5/1)  
+    - [ ] Sword animation(Deadline: 5/1)
+ - [ ] Add armor (Deadline: 5/5)
+   - [ ] Armor Sprite (Deadline: 5/3)
+     - [ ]  Player sprite with armor(Deadline: 5/4)
+     - [ ]  Armor sprite on floor(Deadline: 5/5)
+   - [ ]  Armor health boost(Deadline: 5/3)
 
 
 <!-- EXAMPLE
