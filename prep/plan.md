@@ -1,7 +1,7 @@
 # Plan
 
 ## Tool:Godot 
-## Product: 2D platformer and  potential shooter 
+## Product: 2D platformer with combat mechanics
 
 ---
 
