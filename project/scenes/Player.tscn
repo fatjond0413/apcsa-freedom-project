@@ -1,0 +1,58 @@
+[gd_scene format=3 uid="uid://bh8sy3cfco4os"]
+
+[ext_resource type="Texture2D" uid="uid://pm3hebk3nvax" path="res://assets/3 Dude_Monster/Dude_Monster_Idle_4.png" id="1_f50pn"]
+[ext_resource type="Script" uid="uid://dxj0bgtkg1il6" path="res://scenes/player.gd" id="1_v6fml"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ij6vw"]
+atlas = ExtResource("1_f50pn")
+region = Rect2(0, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ghijl"]
+atlas = ExtResource("1_f50pn")
+region = Rect2(32, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_44cfe"]
+atlas = ExtResource("1_f50pn")
+region = Rect2(64, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_dd465"]
+atlas = ExtResource("1_f50pn")
+region = Rect2(96, 0, 32, 32)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_lhvu3"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ij6vw")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ghijl")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_44cfe")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_dd465")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 5.0
+}]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_4sjlk"]
+radius = 11.0
+
+[node name="Player" type="CharacterBody2D" unique_id=1471538282]
+z_index = 5
+script = ExtResource("1_v6fml")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=310970840]
+position = Vector2(19.500004, -17.999992)
+scale = Vector2(1.59375, 1.0000002)
+sprite_frames = SubResource("SpriteFrames_lhvu3")
+animation = &"idle"
+autoplay = "idle"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1970940263]
+position = Vector2(18, -13)
+shape = SubResource("CircleShape2D_4sjlk")
