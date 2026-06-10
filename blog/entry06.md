@@ -17,8 +17,14 @@ I showed my snippets of my freedom project then talked about the challanges I ha
  
 ## Expo Elevator Pitch
 
-During the expo, my elevator pitch was about one and a half minutes 
+During the expo, my elevator pitch was about one and a half minutes. At first it was about two minutes before I decided to speed up the video on my presentation and  try to make every slide about ten seconds at most. I also kept my composer and did not stutter at all and maintained eye contact and explained my project well. 
 
+### Glow
+* I manage to shorten my presentation time to just one minute and 30 seconds from the 7 minutes it took me in class.
+* This time I did not stutter and because of the explained my project well.
+
+### Grow
+* I have to shorten my elevator pitch abit more since I went above one minute
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
