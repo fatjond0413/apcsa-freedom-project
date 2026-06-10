@@ -25,6 +25,13 @@ During the expo, my elevator pitch was about one and a half minutes. At first it
 
 ### Grow
 * I have to shorten my elevator pitch abit more since I went above one minute
+
+
+### Sources/Links  
+
+[Presentation](https://docs.google.com/presentation/d/1zGofXzl81M1t4VVjRb8Dhy53cVXMLmw75vfVHda8Enk/edit?slide=id.g3dc57025795_5_40#slide=id.g3dc57025795_5_40)
+
+
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
