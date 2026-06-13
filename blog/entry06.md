@@ -8,7 +8,7 @@ on if the viewer knows a platformer game where they play as a blue guy. Then I t
 I showed my snippets of my freedom project then talked about the challanges I had faced along with the takeaways I got. 
 
  ### Glows of my presentation
- * One thing I did well was the hook as it always got the attention of the viewers
+ * One thing I did well was the hook as it always got the attention of the viewers.
  * I also maintained eye contact with the viewers most of the time and did not look back on my screen reading of it.
  
  ### Grows of my presentation
@@ -24,13 +24,12 @@ During the expo, my elevator pitch was about one and a half minutes. At first it
 * This time I did not stutter and because of the explained my project well.
 
 ### Grow
-* I have to shorten my elevator pitch abit more since I went above one minute
-
-
+* I have to shorten my elevator pitch abit more since I went above one minute.
+* I have to make better plans ahead of time for elevator pitches.
 ### Sources/Links  
 
-[Presentation](https://docs.google.com/presentation/d/1zGofXzl81M1t4VVjRb8Dhy53cVXMLmw75vfVHda8Enk/edit?slide=id.g3dc57025795_5_40#slide=id.g3dc57025795_5_40)
-[Presentation Plan](https://github.com/fatjond0413/apcsa-freedom-project/blob/main/prep/presentation.md)
+* [Presentation](https://docs.google.com/presentation/d/1zGofXzl81M1t4VVjRb8Dhy53cVXMLmw75vfVHda8Enk/edit?slide=id.g3dc57025795_5_40#slide=id.g3dc57025795_5_40)
+* [Presentation Plan](https://github.com/fatjond0413/apcsa-freedom-project/blob/main/prep/presentation.md)
 
 
 [Previous](entry05.md) | [Next](entry07.md)
